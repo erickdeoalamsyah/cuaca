@@ -31,7 +31,7 @@ const BackgroundAnimation = ({ weatherIcon }) => {
       case '13n':
         return salju; 
       default:
-        return '/images/default-weather.jpg'; 
+        return hujan; 
     }
   };
 
